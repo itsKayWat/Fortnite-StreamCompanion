@@ -1,0 +1,27 @@
+FortniteStreamCompanion/
+│
+├── fortnite-companion.py     # Main application file
+├── requirements.py           # Package installer
+├── README.md                # Project documentation
+├── README.html             # HTML documentation
+├── README.txt              # Text documentation
+│
+├── sounds/                 # Sound effect files
+│   ├── victory.wav
+│   ├── elimination.wav
+│   └── death.wav
+│
+├── assets/                 # Image and resource files
+│   ├── icons/
+│   └── overlays/
+│
+├── config/                 # Configuration files
+│   ├── settings.json
+│   └── stats.json
+│
+├── docs/                   # Additional documentation
+│   ├── CONTRIBUTING.md
+│   └── API.md
+│
+└── tests/                 # Test files
+    └── test_companion.py
